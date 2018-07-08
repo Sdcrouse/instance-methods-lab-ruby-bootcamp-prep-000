@@ -4,7 +4,7 @@ class Dog
   end
   
   def sit 
-    puts "The Dog is shitting"
+    puts "The Dog is sitting"
   end
 end
 # Interesting. This still passes the tests if I define the Person class in this file.
